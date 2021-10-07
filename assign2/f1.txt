@@ -1,0 +1,10 @@
+Ram 6 4 8 9 1 
+Shyam 5 7 1 2 3 
+Jadu 2 6 1 3 9 
+Madhu 2 9 4 8 1 10 
+Souhardya 3 5 8 6 10 1 
+Somenath 3 6 9 5 8 
+Ammaar 1 10 7 9 2 8 
+Ayush 9 10 1 8 4 
+iitpatna 3 10 6 9 5 7 
+Neels 6 8 4 1 5 10 
